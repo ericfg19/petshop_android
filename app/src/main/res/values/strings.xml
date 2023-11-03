@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">PetShop</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="passWordConfirmation">Confirmar senha</string>
+    <string name="login">Login</string>
+    <string name="contentDescriptionEmail">Campo de texto para inserção do email cadastrado</string>
+    <string name="contentDescriptionPassword">Campo de texto para inserção da senha cadastrada</string>
+    <string name="contentDescriptionLogoImage">Imagem de logo do PetShop</string>
+    <string name="contentDescriptionMapImagem">Image do mapa da localização do petshop</string>
+    <string name="contentDescriptionInstagramImage">Imagem com a logo do Instagram</string>
+    <string name="contentDescriptionFacebookImage">Imagem com a logo do Facebook</string>
+    <string name="contentDescriptionServiceImage">Imagem do serviço oferecido pelo petshop</string>
+    <string name="contentDescriptionProfileImage">Imagem de perfil do pet cadastrado</string>
+    <string name="emailSignUpPlaceholder">Digite um email no formato correto</string>
+    <string name="passwordSignupPlaceholder">Digite sua senha</string>
+    <string name="passwordConfirmationPlaceholder">Repita sua senha</string>
+    <string name="signUpTitle">Cadastro</string>
+    <string name="btnSignUp">Cadastrar</string>
+    <string name="signUpLabel">Não possui cadastro?</string>
+    <string name="signUpLink">Cadastre-se aqui!</string>
+    <string name="firstFragment">First Fragment</string>
+    <string name="secondFragment">Second Fragment</string>
+    <string name="thirdFragment">Third Fragment</string>
+    <string name="information">Informações:</string>
+    <string name="functionTime">Segunda à sexta-feira das 09h às 18h</string>
+    <string name="phone">(21) 4002-8922</string>
+    <string name="emailAddress">loja@petshop.com.br</string>
+    <string name="address">Rua Conde de Bonfim, 100 - Tijuca</string>
+    <string name="socialNetwork">Redes sociais:</string>
+    <string name="history">Agendamentos</string>
+    <string name="profileName">Nome: Luke</string>
+    <string name="profileAge">Idade: 4 Anos</string>
+    <string name="profileBreed">Raça: SRD</string>
+    <string name="interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="servicesActivity">Serviços</string>
+    <string name="storeActivity">Informações do PetShop</string>
+    <string name="accountActivity">Minha conta</string>
+
+    <string-array name="horariosArray">
+        <item>08:00</item>
+        <item>08:30</item>
+        <item>09:00</item>
+        <item>09:30</item>
+        <item>10:00</item>
+        <item>10:30</item>
+        <item>11:00</item>
+        <item>11:30</item>
+        <item>12:00</item>
+        <item>12:30</item>
+        <item>13:00</item>
+        <item>13:30</item>
+        <item>14:00</item>
+        <item>14:30</item>
+    </string-array>
+
+    <string-array name="diasArray">
+        <item>Segunda-feira</item>
+        <item>Terça-feira</item>
+        <item>Quarta-feira</item>
+        <item>Quinta-feira</item>
+        <item>Sexta-feira</item>
+    </string-array>
+</resources>
